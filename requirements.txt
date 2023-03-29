@@ -1,0 +1,6 @@
+flask
+flask-WTF
+sqlalchemy
+flask-sqlalchemy
+flask-migrate
+flask-shell-ipython
